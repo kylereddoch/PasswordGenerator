@@ -1,0 +1,1 @@
+{"version":"1.0","name":"PassGen","isWebProject":false,"config":{"version":"1.0","runConfigurations":[{"name":"Default","isDefault":true,"command":"python3 app.py"}]}}
